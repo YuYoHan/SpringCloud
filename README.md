@@ -1,6 +1,6 @@
-# Node.js
-노드는 자바 기반 프레임워크가 아니라 자바스크립트 라이브러리이다. <br />
+# Spring Cloud
+스프링 클라우드 공부
 
 # Velog
-
-[velog 주소](https://velog.io/@zxzz45/series/Node)
+[velog 주소](https://velog.io/@zxzz45/series/SpringCloud)
+[노션 주소](https://www.notion.so/Spring-Cloud-cdb4433dd4944443b82803325c7d94cc)
